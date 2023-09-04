@@ -1472,7 +1472,7 @@ dependencies = [
  "console",
  "directories",
  "dockworker",
- "errno 0.2.8",
+ "errno 0.3.3",
  "getch",
  "libc",
  "libproc",
